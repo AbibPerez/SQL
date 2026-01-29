@@ -1,0 +1,9 @@
+{
+    "color-highlight.matchWords": false,
+    "markdown.preview.breaks": false,
+    "notebook.defaultFormatter": null,
+    "prettier.proseWrap": "preserve",
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    }
+}
